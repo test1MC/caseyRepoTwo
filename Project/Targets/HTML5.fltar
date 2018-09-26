@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultTarget
   Version="2"
   Comment="MadCap HTML5 Target"
@@ -6,7 +6,8 @@
   Destinations=""
   GlossaryTermConversion="marked"
   MasterPage="/Content/Resources/MasterPages/OtherTopics.flmsp"
-  DefaultUrl="/Content/Home.htm">
+  DefaultUrl="/Content/Home.htm"
+  GetLatestBeforeCompile="false">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
